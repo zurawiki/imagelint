@@ -1,0 +1,11 @@
+{
+  "name": "@zurawiki/imagelint",
+  "version": "0.0.1-dev1",
+  "description": "CLI tool for enforcing image assets are optimally compressed.",
+  "main": "index.js",
+  "author": "Roger Zurawicki <roger@zura.wiki>",
+  "license": "MIT",
+  "dependencies": {
+    "imageoptim-cli": "^2.3.5"
+  }
+}
