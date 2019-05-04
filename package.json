@@ -1,11 +1,46 @@
 {
-  "name": "@zurawiki/imagelint",
-  "version": "0.0.1-dev1",
+  "name": "imagelint-lossless",
+  "homepage": "https://github.com/zurawiki/imagelint",
   "description": "CLI tool for enforcing image assets are optimally compressed.",
+  "version": "0.0.1-dev2",
   "main": "index.js",
   "author": "Roger Zurawicki <roger@zura.wiki>",
   "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
   "dependencies": {
     "imageoptim-cli": "^2.3.5"
-  }
+  },
+  "repository": "zurawiki/imagelint",
+  "bugs": {
+    "url": "https://github.com/micromatch/nanomatch/issues"
+  },
+  "keywords": [
+    "advpng",
+    "compress",
+    "compress images",
+    "gifsicle",
+    "image compression",
+    "image optimisation",
+    "imagealpha",
+    "imagemin",
+    "imageoptim",
+    "images",
+    "jpegmini",
+    "jpegoptim",
+    "jpegtran",
+    "optimise images",
+    "optipng",
+    "pngcrush",
+    "pngout",
+    "pngquant",
+    "smushit",
+    "tinypng",
+    "imageoptim-cli",
+    "lossless",
+    "compress",
+    "lint",
+    "linter"
+  ]
 }
