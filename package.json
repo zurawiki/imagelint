@@ -7,8 +7,8 @@
   "author": "Roger Zurawicki <roger@zura.wiki>",
   "license": "MIT",
   "bin": {
-    "imagelint-lossless": ".",
-    "imagelint": "."
+    "imagelint-lossless": "./index.js",
+    "imagelint": "./index.js"
   },
   "engines": {
     "node": ">=8"
